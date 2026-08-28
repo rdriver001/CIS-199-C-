@@ -1,0 +1,16 @@
+D:\Desktop\CS199\Program1\Program1\bin\Debug\net8.0-windows\Program1.exe
+D:\Desktop\CS199\Program1\Program1\bin\Debug\net8.0-windows\Program1.deps.json
+D:\Desktop\CS199\Program1\Program1\bin\Debug\net8.0-windows\Program1.runtimeconfig.json
+D:\Desktop\CS199\Program1\Program1\bin\Debug\net8.0-windows\Program1.dll
+D:\Desktop\CS199\Program1\Program1\bin\Debug\net8.0-windows\Program1.pdb
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.Form1.resources
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.csproj.GenerateResource.cache
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.AssemblyInfoInputs.cache
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.AssemblyInfo.cs
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.csproj.CoreCompileInputs.cache
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.dll
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\refint\Program1.dll
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.pdb
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\Program1.genruntimeconfig.cache
+D:\Desktop\CS199\Program1\Program1\obj\Debug\net8.0-windows\ref\Program1.dll
